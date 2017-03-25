@@ -102,6 +102,36 @@ html {
   border: 1px solid white;
 }
 
+/* footer styles */
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: white;
+  font-size: .8em;
+  margin-left: 25px;
+}
+
+#flag {
+  width: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
