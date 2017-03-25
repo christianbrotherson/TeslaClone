@@ -1,5 +1,75 @@
-/*header styles */
-
-* {
-  background-image: url(../img/teslas.jpg);
+/* background image */
+html {
+  background: url(../img/teslas.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Raleway', sans-serif;
 }
+
+/* header styles */
+
+#header {
+  width: 100%;
+  margin-left: 50px;
+}
+
+#logo {
+  float: left;
+  margin-top: 3px;
+  margin-left: 230px;
+}
+
+#logo img {
+  width: 100px;
+  float: left;
+}
+
+#left-nav {
+  float: left;
+  margin-left: 40px;
+}
+
+#left-nav a {
+  font-size: .8em;
+}
+
+#right-nav {
+  margin-left: 850px;
+}
+
+#right-nav a {
+  font-size: .65em;
+}
+
+.nav-button {
+  margin-left: 15px;
+  text-decoration: none;
+  color: #FFF;
+  letter-spacing: .3px;
+}
+
+.nav-button:hover {
+  color: #999;
+}
+
+/* wrapper styles */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
